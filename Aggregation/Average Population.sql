@@ -1,0 +1,2 @@
+SELECT FLOOR(AVG(POPULATION)) as avg_population
+FROM CITY;
